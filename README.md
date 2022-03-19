@@ -1,3 +1,5 @@
+# WARNING! Under early development. Script may be hazardous (seriously.)
+
 # Trunity
 Trunity is a script to port Unity games for Windows to Linux automagically.
 # What you'll need
