@@ -1,7 +1,7 @@
 # WARNING! Under early development. Script may be hazardous (seriously.)
 
 # Trunity
-Trunity is a script to port Unity games for Windows to Linux automagically.
+Trunity is a script to port Unity games for Windows to a native Linux version automagically.
 # What you'll need
 - A Windows **Unity** game with a **Unity** version ≥ **2019.4.16f1**, builds < **2019.4.16f1** may work but are untested*
 - Python 3.7+ is what the script is made for, you should at least have a Python 3.x version
